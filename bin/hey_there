@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+puts "       "
+puts "  ('v')"
+puts "   \\|  "
+puts "    |\\ "
+puts "   / \\ "
+
+`say hey there!`

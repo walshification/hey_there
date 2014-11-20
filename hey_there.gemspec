@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["walshification@gmail.com"]
   spec.summary       = %q{Type `hey_there` to get a friendly hello from a stick person.}
   spec.description   = %q{Type `hey_there` to get a friendly hello from a stick person.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/walshification/hey_there"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

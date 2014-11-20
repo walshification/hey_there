@@ -1,6 +1,6 @@
 # HeyThere
 
-TODO: Write a gem description
+Type hey_there to get a friendly hello from a stick person.
 
 ## Installation
 
